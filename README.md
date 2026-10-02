@@ -12,7 +12,6 @@ https://saladnomenu.ir
 * CSS3
 * JavaScript
 * Responsive Web Design
-* Bootstrap
 
 ## 📌 Project Overview
 
